@@ -32,7 +32,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - 4. Checkout Page
 ![image](https://github.com/user-attachments/assets/bf5305e4-83da-4896-b634-3efcfba64638)
 
--5. My bookings Page
+- 5. My bookings Page
 ![image](https://github.com/user-attachments/assets/5afaf286-3254-4ad3-b41c-92382609cca8)
 
 
