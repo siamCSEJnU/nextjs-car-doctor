@@ -20,6 +20,24 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Screenshots
+- 1. Login/Registration
+![image](https://github.com/user-attachments/assets/264cf7f7-cb6e-4244-bdb6-c081ab96559a)
+- 2. Homepage
+![image](https://github.com/user-attachments/assets/bafb9b28-880b-4ec6-8ae3-874805e25dc3)
+
+- 3. Single Service Page
+![image](https://github.com/user-attachments/assets/06d16146-eeea-4c82-9f09-09ef90e4c5ab)
+
+- 4. Checkout Page
+![image](https://github.com/user-attachments/assets/bf5305e4-83da-4896-b634-3efcfba64638)
+
+-5. My bookings Page
+![image](https://github.com/user-attachments/assets/5afaf286-3254-4ad3-b41c-92382609cca8)
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
